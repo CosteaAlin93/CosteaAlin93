@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alin.
-- 👀 I’m interested in Linux, Cloud and Cybersecurity.
-- 🌱 I’m currently learning DevOps technologies: Linux, Cloud, Docker, Kubernetes, CICD, Git, etc.
-- 💞️ I’m looking to collaborate on TryHackMe writeups, building AWS applications, info sharing.
+- 👀 I’m interested in Web Development, specially into Frond End
+- 🌱 I’m currently learning TailwindCSS, JavaScript and React
+- 💞️ I’m looking to collaborate on [Frondent Mentor](https://www.frontendmentor.io/home) projects and much more
 - 📫 How to reach me : here or on [Linkedin](https://www.linkedin.com/in/alin-costea/).        
 
 <!---
