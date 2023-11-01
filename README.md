@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alin.
-- 👀 I’m interested in Web Development, specially into Frond End
-- 🌱 I’m currently learning TailwindCSS, JavaScript and React
-- 💞️ I’m looking to collaborate on [Frondent Mentor](https://www.frontendmentor.io/home) projects and much more
+- 👀 I’m interested into programming, especially Mobile Development
+- 🌱 I’m currently learning JavaScript and React/ReactNative
+- 💞️ I’m looking to collaborate on diverse projects
 - 📫 How to reach me : here or on [Linkedin](https://www.linkedin.com/in/alin-costea/).        
 
 <!---
